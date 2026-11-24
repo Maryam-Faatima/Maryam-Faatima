@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20voice%20agents%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:5C2A47,100:3F2B63&text=Maryam%20Fatima&fontColor=FFD6E8&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20voice%20agents%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20voice%20agents%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/linkedin-F4A7C3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -56,18 +59,30 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
 <table>
   <tr>
     <td><sub>languages</sub></td>
-    <td><img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts" alt="Languages" /></td>
+    <td><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=cpp,py,java,cs,js,ts" />
+      <img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts" alt="Languages" />
+    </picture></td>
   </tr>
   <tr>
     <td><sub>web and backend</sub></td>
-    <td><img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,fastapi,spring,dotnet,supabase,mongodb" alt="Web and backend" /></td>
+    <td><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=react,nextjs,tailwind,fastapi,spring,dotnet,supabase,mongodb" />
+      <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,fastapi,spring,dotnet,supabase,mongodb" alt="Web and backend" />
+    </picture></td>
   </tr>
   <tr>
     <td><sub>games and tooling</sub></td>
-    <td><img src="https://skillicons.dev/icons?theme=light&i=unity,docker,linux,git,github,vercel" alt="Tooling" /></td>
+    <td><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=unity,docker,linux,git,github,vercel" />
+      <img src="https://skillicons.dev/icons?theme=light&i=unity,docker,linux,git,github,vercel" alt="Tooling" />
+    </picture></td>
   </tr>
 </table>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:E9C6F5,100:FFC8DD&section=footer" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:3F2B63,100:5C2A47&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:E9C6F5,100:FFC8DD&section=footer" alt="" />
+</picture>
