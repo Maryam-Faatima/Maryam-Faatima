@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:5C2A47,100:3F2B63&text=Maryam%20Fatima&fontColor=FFD6E8&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20voice%20agents%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20voice%20agents%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:5C2A47,100:3F2B63&text=Maryam%20Fatima&fontColor=FFD6E8&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20generative%20AI%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20generative%20AI%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
 </picture>
 
 <p align="center">
@@ -8,13 +8,13 @@
   <a href="mailto:maryam.faatim4@gmail.com"><img src="https://img.shields.io/badge/email-FBCFE8?style=for-the-badge&logo=gmail&logoColor=7A4B63" alt="Email" /></a>
 </p>
 
-Curious by default, thorough by habit. I'm a computer science undergraduate at FAST-NUCES Islamabad who likes taking an idea all the way to something that actually runs: voice and LLM agents, full-stack apps and games.
+Curious by default, thorough by habit. I'm a computer science undergraduate at FAST-NUCES Islamabad who likes taking an idea all the way to something that actually runs: generative AI and LLM agents, full-stack apps and games.
 
 <br />
 
 |  |  |
 |---|---|
-| **Building** | voice agents, LLM-powered products, full-stack web and mobile apps |
+| **Building** | generative AI, LLM-powered products, full-stack web and mobile apps |
 | **Studying** | compilers, image processing, AI |
 | **Away from the keyboard** | calligraphy, creative writing |
 
@@ -37,7 +37,7 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
 ### Where I've worked
 
 - Frontend developer intern, Sigma Evolution (current)
-- AI developer intern on voice agents, TechLand (Feb to Jun 2026)
+- AI developer intern, TechLand (Feb to Jun 2026)
 - Lab demonstrator, FAST-NUCES (Aug 2025 to Jan 2026)
 - Game development intern, Elite Tech Solutions (Aug to Sep 2025)
 - Web development intern, Nexium (Jul to Aug 2025)
@@ -81,8 +81,3 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
 </table>
 
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:3F2B63,100:5C2A47&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:E9C6F5,100:FFC8DD&section=footer" alt="" />
-</picture>
