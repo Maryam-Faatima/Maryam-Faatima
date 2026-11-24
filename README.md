@@ -57,21 +57,21 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
   <tr>
     <td><sub>languages</sub></td>
     <td><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=cpp,py,java,cs,js,ts" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=cpp%2Cpy%2Cjava%2Ccs%2Cjs%2Cts" />
       <img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts" alt="Languages" />
     </picture></td>
   </tr>
   <tr>
     <td><sub>web and backend</sub></td>
     <td><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=react,nextjs,tailwind,fastapi,spring,dotnet,supabase,mongodb" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=react%2Cnextjs%2Ctailwind%2Cfastapi%2Cspring%2Cdotnet%2Csupabase%2Cmongodb" />
       <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,fastapi,spring,dotnet,supabase,mongodb" alt="Web and backend" />
     </picture></td>
   </tr>
   <tr>
     <td><sub>games and tooling</sub></td>
     <td><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=unity,docker,linux,git,github,vercel" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=unity%2Cdocker%2Clinux%2Cgit%2Cgithub%2Cvercel" />
       <img src="https://skillicons.dev/icons?theme=light&i=unity,docker,linux,git,github,vercel" alt="Tooling" />
     </picture></td>
   </tr>
