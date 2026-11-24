@@ -140,5 +140,5 @@ class Maryam:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D3E8FF,100:E39AB8&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E9C6F5,100:FFC8DD&section=footer" alt="Footer" />
 </p>
