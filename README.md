@@ -78,3 +78,14 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
 </table>
 
 <br />
+
+<br />
+
+### Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib.svg" alt="Animated contribution graph" />
+  </picture>
+</p>
