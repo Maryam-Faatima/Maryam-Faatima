@@ -85,7 +85,7 @@ Curious by default, thorough by habit. I'm a computer science undergraduate at F
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib.svg" alt="Animated contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib-dark.svg?v=3" />
+    <img src="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/contrib.svg?v=3" alt="Animated contribution graph" />
   </picture>
 </p>
