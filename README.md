@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:5C2A47,100:3F2B63&text=Maryam%20Fatima&fontColor=FFD6E8&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20generative%20AI%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20generative%20AI%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=46&fontAlignY=45&desc=computer%20science%20%2F%20generative%20AI%20%2F%20full%20stack&descAlignY=68&descSize=16&section=header" alt="Maryam Fatima" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/linkedin-F4A7C3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
