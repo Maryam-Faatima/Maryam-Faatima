@@ -19,15 +19,15 @@
 
 ---
 
-## 🌸 About me
+## <img src="https://api.iconify.design/ph:flower-lotus-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> About me
 
 I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**. I like turning ideas into working systems, from LLM and voice agents to full-stack apps, games and low-level parallel code.
 
-- 🤖 Building **voice agents** and **LLM-powered products**
-- 🌐 Shipping **full-stack apps** (web, mobile and backend)
-- 🎮 Making **Unity games** and **C++/SFML** projects
-- ⚡ Exploring **parallel & distributed computing** (OpenMP, MPI, OpenCL)
-- ✍️ Outside code: calligraphy and creative writing
+- <img src="https://api.iconify.design/ph:robot-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Building **voice agents** and **LLM-powered products**
+- <img src="https://api.iconify.design/ph:globe-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Shipping **full-stack apps** (web, mobile and backend)
+- <img src="https://api.iconify.design/ph:game-controller-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Making **Unity games** and **C++/SFML** projects
+- <img src="https://api.iconify.design/ph:lightning-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Exploring **parallel & distributed computing** (OpenMP, MPI, OpenCL)
+- <img src="https://api.iconify.design/ph:pen-nib-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Outside code: calligraphy and creative writing
 
 ```python
 class Maryam:
@@ -39,7 +39,7 @@ class Maryam:
 
 ---
 
-## 🎀 Experience
+## <img src="https://api.iconify.design/ph:briefcase-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Experience
 
 | Role | Where | When |
 |------|-------|------|
@@ -51,7 +51,7 @@ class Maryam:
 
 ---
 
-## ✨ Featured projects
+## <img src="https://api.iconify.design/ph:sparkle-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Featured projects
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ class Maryam:
 
 ---
 
-## 🏅 Achievements
+## <img src="https://api.iconify.design/ph:medal-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Achievements
 
 <p>
   <img src="https://img.shields.io/badge/Dean's%20List-4%20semesters-E39AB8?style=flat-square" alt="Dean's List" />
@@ -84,7 +84,7 @@ class Maryam:
 
 ---
 
-## 🧸 Tech arsenal
+## <img src="https://api.iconify.design/ph:code-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Tech arsenal
 
 **Languages**
 
@@ -111,7 +111,7 @@ class Maryam:
 
 ---
 
-## 💗 GitHub analytics
+## <img src="https://api.iconify.design/ph:chart-line-up-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> GitHub analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maryam-Faatima&show_icons=true&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8&count_private=true" alt="GitHub stats" />
