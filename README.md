@@ -1,25 +1,25 @@
 <!-- Header banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A45DB,100:D3E8FF&text=Maryam%20Fatima&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Voice%20Agents%20%C2%B7%20AI%20%C2%B7%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn" alt="Maryam Fatima banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=52&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Voice%20Agents%20%C2%B7%20AI%20%C2%B7%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn" alt="Maryam Fatima banner" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/Maryam-Faatima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6A45DB&center=true&vCenter=true&width=620&lines=Computer+Science+@+FAST-NUCES+Islamabad;Building+voice+%26+LLM-powered+agents;Full-stack+apps+%C2%B7+Unity+games+%C2%B7+parallel+computing;Curious+by+default%2C+thorough+by+habit" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D6538F&center=true&vCenter=true&width=620&lines=Computer+Science+@+FAST-NUCES+Islamabad;Building+voice+%26+LLM-powered+agents;Full-stack+apps+%C2%B7+Unity+games+%C2%B7+parallel+computing;Curious+by+default%2C+thorough+by+habit" alt="Typing intro" />
   </a>
 </p>
 
 <!-- Contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:maryam.faatim4@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Maryam-Faatima&label=Profile+views&color=6A45DB&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-E39AB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maryam.faatim4@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-F4A7C3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Maryam-Faatima&label=Profile+views&color=F4A7C3&labelColor=FFF0F6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## 👋 About me
+## 🌸 About me
 
 I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**. I like turning ideas into working systems, from LLM and voice agents to full-stack apps, games and low-level parallel code.
 
@@ -39,7 +39,7 @@ class Maryam:
 
 ---
 
-## 💼 Experience
+## 🎀 Experience
 
 | Role | Where | When |
 |------|-------|------|
@@ -51,20 +51,20 @@ class Maryam:
 
 ---
 
-## 🚀 Featured projects
+## ✨ Featured projects
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/Maryam-Faatima/clinical_trial_matching_llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=clinical_trial_matching_llm&theme=default&hide_border=true" alt="clinical_trial_matching_llm" /></a></td>
-    <td width="50%"><a href="https://github.com/Maryam-Faatima/genai-restoration-sketch-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=genai-restoration-sketch-studio&theme=default&hide_border=true" alt="genai-restoration-sketch-studio" /></a></td>
+    <td width="50%"><a href="https://github.com/Maryam-Faatima/clinical_trial_matching_llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=clinical_trial_matching_llm&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="clinical_trial_matching_llm" /></a></td>
+    <td width="50%"><a href="https://github.com/Maryam-Faatima/genai-restoration-sketch-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=genai-restoration-sketch-studio&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="genai-restoration-sketch-studio" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Maryam-Faatima/Yaad-Say-Kaam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Yaad-Say-Kaam&theme=default&hide_border=true" alt="Yaad-Say-Kaam" /></a></td>
-    <td><a href="https://github.com/Maryam-Faatima/ParallelKMeans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=ParallelKMeans&theme=default&hide_border=true" alt="ParallelKMeans" /></a></td>
+    <td><a href="https://github.com/Maryam-Faatima/Yaad-Say-Kaam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Yaad-Say-Kaam&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Yaad-Say-Kaam" /></a></td>
+    <td><a href="https://github.com/Maryam-Faatima/ParallelKMeans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=ParallelKMeans&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="ParallelKMeans" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Maryam-Faatima/Bleat_ChildSecuritySystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Bleat_ChildSecuritySystem&theme=default&hide_border=true" alt="Bleat_ChildSecuritySystem" /></a></td>
-    <td><a href="https://github.com/Maryam-Faatima/Youtube_Video_Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Youtube_Video_Analyzer&theme=default&hide_border=true" alt="Youtube_Video_Analyzer" /></a></td>
+    <td><a href="https://github.com/Maryam-Faatima/Bleat_ChildSecuritySystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Bleat_ChildSecuritySystem&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Bleat_ChildSecuritySystem" /></a></td>
+    <td><a href="https://github.com/Maryam-Faatima/Youtube_Video_Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Youtube_Video_Analyzer&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Youtube_Video_Analyzer" /></a></td>
   </tr>
 </table>
 
@@ -72,58 +72,58 @@ class Maryam:
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 <p>
-  <img src="https://img.shields.io/badge/Dean's%20List-4%20semesters-6A45DB?style=flat-square" alt="Dean's List" />
-  <img src="https://img.shields.io/badge/Silver%20Medal-Fall%202025-9AA0A6?style=flat-square" alt="Silver Medal" />
-  <img src="https://img.shields.io/badge/ICPC%202024-Regional%20Qualifier-1F1C3D?style=flat-square" alt="ICPC 2024 Regional Qualifier" />
+  <img src="https://img.shields.io/badge/Dean's%20List-4%20semesters-E39AB8?style=flat-square" alt="Dean's List" />
+  <img src="https://img.shields.io/badge/Silver%20Medal-Fall%202025-C9B6D9?style=flat-square" alt="Silver Medal" />
+  <img src="https://img.shields.io/badge/ICPC%202024-Regional%20Qualifier-C9A7C7?style=flat-square" alt="ICPC 2024 Regional Qualifier" />
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maryam-Faatima&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maryam-Faatima&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" /></a>
 
 ---
 
-## 🛠️ Tech arsenal
+## 🧸 Tech arsenal
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,cs,js,ts" alt="Languages" /> 
-  <img src="https://img.shields.io/badge/x86%20Assembly-MASM-555555?style=flat-square" alt="x86 Assembly" />
-  <img src="https://img.shields.io/badge/SQL-T--SQL-336791?style=flat-square" alt="SQL" />
+  <img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts" alt="Languages" /> 
+  <img src="https://img.shields.io/badge/x86%20Assembly-MASM-C9B6D9?style=flat-square" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/SQL-T--SQL-B8C6E8?style=flat-square" alt="SQL" />
 </p>
 
 **Web & backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,spring,dotnet,mongodb,supabase" alt="Web and backend" />
+<img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,fastapi,spring,dotnet,mongodb,supabase" alt="Web and backend" />
 
 **Games, tools & platforms**
 
-<img src="https://skillicons.dev/icons?i=unity,docker,linux,git,github,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?theme=light&i=unity,docker,linux,git,github,vercel" alt="Tools" />
 
 **AI & systems**
 
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Agents%20%26%20Voice-6A45DB?style=flat-square)
-![OpenMP](https://img.shields.io/badge/OpenMP-Parallel-1F1C3D?style=flat-square)
-![MPI](https://img.shields.io/badge/MPI-Distributed-1F1C3D?style=flat-square)
-![OpenCL](https://img.shields.io/badge/OpenCL-GPU-1F1C3D?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Agents%20%26%20Voice-E39AB8?style=flat-square)
+![OpenMP](https://img.shields.io/badge/OpenMP-Parallel-C9A7C7?style=flat-square)
+![MPI](https://img.shields.io/badge/MPI-Distributed-C9A7C7?style=flat-square)
+![OpenCL](https://img.shields.io/badge/OpenCL-GPU-C9A7C7?style=flat-square)
 
 ---
 
-## 📊 GitHub analytics
+## 💗 GitHub analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maryam-Faatima&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Faatima&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maryam-Faatima&show_icons=true&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Faatima&layout=compact&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Faatima&theme=default&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Faatima&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Faatima&theme=minimal&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Faatima&bg_color=FFF5F9&color=D6538F&line=F4A7C3&point=D6538F&area=true&area_color=FBCFE8&hide_border=true" alt="Activity graph" />
 </p>
 
 <!-- Contribution snake: generated daily by .github/workflows/snake.yml -->
@@ -136,9 +136,9 @@ class Maryam:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6A45DB&center=true&vCenter=true&width=480&lines=Open+to+collaborations+and+internships;Let's+build+something+together" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=D6538F&center=true&vCenter=true&width=480&lines=Open+to+collaborations+and+internships;Let's+build+something+together" alt="Footer typing" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D3E8FF,100:6A45DB&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D3E8FF,100:E39AB8&section=footer" alt="Footer" />
 </p>
