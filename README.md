@@ -1,144 +1,66 @@
-<!-- Header banner -->
+<h1 align="center">Maryam Fatima</h1>
+
+<p align="center"><sub>computer science &nbsp;/&nbsp; voice agents &nbsp;/&nbsp; full stack</sub></p>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFC8DD,100:E9C6F5&text=Maryam%20Fatima&fontColor=8A3563&fontSize=52&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Voice%20Agents%20%C2%B7%20AI%20%C2%B7%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn" alt="Maryam Fatima banner" />
+  <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/linkedin-F4A7C3?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maryam.faatim4@gmail.com"><img src="https://img.shields.io/badge/email-FBCFE8?style=flat-square&logo=gmail&logoColor=7A4B63" alt="Email" /></a>
 </p>
 
-<!-- Typing intro -->
-<p align="center">
-  <a href="https://github.com/Maryam-Faatima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D6538F&center=true&vCenter=true&width=620&lines=Computer+Science+@+FAST-NUCES+Islamabad;Building+voice+%26+LLM-powered+agents;Full-stack+apps+%C2%B7+Unity+games+%C2%B7+parallel+computing;Curious+by+default%2C+thorough+by+habit" alt="Typing intro" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFC8DD,100:E9C6F5" width="100%" alt="" />
 
-<!-- Contact -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/maryam-fatima-6637312b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-E39AB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:maryam.faatim4@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-F4A7C3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Maryam-Faatima&label=Profile+views&color=F4A7C3&labelColor=FFF0F6&style=for-the-badge" alt="Profile views" />
-</p>
+Curious by default, thorough by habit. I'm a computer science undergraduate at FAST-NUCES Islamabad who likes taking an idea all the way to something that actually runs: voice and LLM agents, full-stack apps, games, and the occasional piece of low-level parallel code.
 
----
+<br />
 
-## <img src="https://api.iconify.design/ph:flower-lotus-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> About me
+|  |  |
+|---|---|
+| **Building** | voice agents, LLM-powered products, full-stack web and mobile apps |
+| **Studying** | parallel and distributed computing, compilers, image processing |
+| **Away from the keyboard** | calligraphy, creative writing |
 
-I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**. I like turning ideas into working systems, from LLM and voice agents to full-stack apps, games and low-level parallel code.
+<br />
 
-- <img src="https://api.iconify.design/ph:robot-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Building **voice agents** and **LLM-powered products**
-- <img src="https://api.iconify.design/ph:globe-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Shipping **full-stack apps** (web, mobile and backend)
-- <img src="https://api.iconify.design/ph:game-controller-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Making **Unity games** and **C++/SFML** projects
-- <img src="https://api.iconify.design/ph:lightning-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Exploring **parallel & distributed computing** (OpenMP, MPI, OpenCL)
-- <img src="https://api.iconify.design/ph:pen-nib-fill.svg?color=%23E39AB8" height="16" align="center" alt="" /> Outside code: calligraphy and creative writing
+### Selected work
 
-```python
-class Maryam:
-    studying   = "BS Computer Science, FAST-NUCES Islamabad"
-    focus      = ["Voice Agents", "AI Development", "Full Stack"]
-    also_into  = ["Game Dev", "Parallel Computing", "Compilers"]
-    currently  = "Learning something new, shipping something small"
-```
+| Project | What it is | Built with |
+|---|---|---|
+| [clinical_trial_matching_llm](https://github.com/Maryam-Faatima/clinical_trial_matching_llm) | Criterion-level clinical trial eligibility screening with a fine-tuned small transformer | Python, LoRA |
+| [genai-restoration-sketch-studio](https://github.com/Maryam-Faatima/genai-restoration-sketch-studio) | Image restoration and face-to-sketch generation served through a web app | Python, ONNX |
+| [Yaad-Say-Kaam](https://github.com/Maryam-Faatima/Yaad-Say-Kaam) | Task reminders pulled from email by a four-agent pipeline that strips personal data first | Python, Streamlit |
+| [ParallelKMeans](https://github.com/Maryam-Faatima/ParallelKMeans) | K-Means with OpenMP, MPI and OpenCL variants, benchmarked and analysed | C++ |
+| [Bleat_ChildSecuritySystem](https://github.com/Maryam-Faatima/Bleat_ChildSecuritySystem) | Full-stack child safety management app | Java, TypeScript |
+| [Youtube_Video_Analyzer](https://github.com/Maryam-Faatima/Youtube_Video_Analyzer) | Summaries, Q&A and frame analysis for any YouTube video | Python, Whisper |
+| [MerkleTreeReviewAnalyzer](https://github.com/Maryam-Faatima/MerkleTreeReviewAnalyzer) | Integrity checks for large product-review datasets | Python |
+| [RC_QUIZ](https://github.com/Maryam-Faatima/RC_QUIZ) | Quiz generation from reading-comprehension passages | Python, scikit-learn |
 
----
+<br />
 
-## <img src="https://api.iconify.design/ph:briefcase-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Experience
+### Where I've worked
 
-| Role | Where | When |
-|------|-------|------|
-| Frontend Developer Intern | Sigma Evolution | Current |
-| AI Developer Intern (voice agents) | TechLand | 02/2026 – 06/2026 |
-| Lab Demonstrator | FAST-NUCES | 08/2025 – 01/2026 |
-| Game Dev Intern (enemy and companion AI) | Elite Tech Solutions | 08/2025 – 09/2025 |
-| Web Dev Intern | Nexium | 07/2025 – 08/2025 |
+- Frontend developer intern, Sigma Evolution (current)
+- AI developer intern on voice agents, TechLand (Feb to Jun 2026)
+- Lab demonstrator, FAST-NUCES (Aug 2025 to Jan 2026)
+- Game development intern, Elite Tech Solutions (Aug to Sep 2025)
+- Web development intern, Nexium (Jul to Aug 2025)
 
----
+<br />
 
-## <img src="https://api.iconify.design/ph:sparkle-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Featured projects
+### Along the way
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/Maryam-Faatima/clinical_trial_matching_llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=clinical_trial_matching_llm&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="clinical_trial_matching_llm" /></a></td>
-    <td width="50%"><a href="https://github.com/Maryam-Faatima/genai-restoration-sketch-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=genai-restoration-sketch-studio&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="genai-restoration-sketch-studio" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Maryam-Faatima/Yaad-Say-Kaam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Yaad-Say-Kaam&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Yaad-Say-Kaam" /></a></td>
-    <td><a href="https://github.com/Maryam-Faatima/ParallelKMeans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=ParallelKMeans&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="ParallelKMeans" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Maryam-Faatima/Bleat_ChildSecuritySystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Bleat_ChildSecuritySystem&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Bleat_ChildSecuritySystem" /></a></td>
-    <td><a href="https://github.com/Maryam-Faatima/Youtube_Video_Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryam-Faatima&repo=Youtube_Video_Analyzer&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Youtube_Video_Analyzer" /></a></td>
-  </tr>
-</table>
+Dean's List for four semesters, a silver medal in Fall 2025, and an ICPC 2024 regional qualifier.
 
-**More:** price-tracking app with web + mobile clients, a Merkle-tree review integrity system, a RACE quiz generator, a compiler front-end (lexical analyzer), and Unity games (2D platformer, obstacle course).
+<br />
 
----
-
-## <img src="https://api.iconify.design/ph:medal-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Achievements
+### Tools I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/Dean's%20List-4%20semesters-E39AB8?style=flat-square" alt="Dean's List" />
-  <img src="https://img.shields.io/badge/Silver%20Medal-Fall%202025-C9B6D9?style=flat-square" alt="Silver Medal" />
-  <img src="https://img.shields.io/badge/ICPC%202024-Regional%20Qualifier-C9A7C7?style=flat-square" alt="ICPC 2024 Regional Qualifier" />
+  <img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts,react,nextjs,fastapi,spring,unity,docker,linux,git" alt="Tech stack" />
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maryam-Faatima&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" /></a>
-
----
-
-## <img src="https://api.iconify.design/ph:code-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> Tech arsenal
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?theme=light&i=cpp,py,java,cs,js,ts" alt="Languages" /> 
-  <img src="https://img.shields.io/badge/x86%20Assembly-MASM-C9B6D9?style=flat-square" alt="x86 Assembly" />
-  <img src="https://img.shields.io/badge/SQL-T--SQL-B8C6E8?style=flat-square" alt="SQL" />
-</p>
-
-**Web & backend**
-
-<img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,fastapi,spring,dotnet,mongodb,supabase" alt="Web and backend" />
-
-**Games, tools & platforms**
-
-<img src="https://skillicons.dev/icons?theme=light&i=unity,docker,linux,git,github,vercel" alt="Tools" />
-
-**AI & systems**
-
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Agents%20%26%20Voice-E39AB8?style=flat-square)
-![OpenMP](https://img.shields.io/badge/OpenMP-Parallel-C9A7C7?style=flat-square)
-![MPI](https://img.shields.io/badge/MPI-Distributed-C9A7C7?style=flat-square)
-![OpenCL](https://img.shields.io/badge/OpenCL-GPU-C9A7C7?style=flat-square)
-
----
-
-## <img src="https://api.iconify.design/ph:chart-line-up-fill.svg?color=%23E39AB8" height="26" align="top" alt="" /> GitHub analytics
+<br />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maryam-Faatima&show_icons=true&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Faatima&layout=compact&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Faatima&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Faatima&bg_color=FFF5F9&color=D6538F&line=F4A7C3&point=D6538F&area=true&area_color=FBCFE8&hide_border=true" alt="Activity graph" />
-</p>
-
-<!-- Contribution snake: generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Maryam-Faatima/Maryam-Faatima/output/github-snake.svg" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=D6538F&center=true&vCenter=true&width=480&lines=Open+to+collaborations+and+internships;Let's+build+something+together" alt="Footer typing" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E9C6F5,100:FFC8DD&section=footer" alt="Footer" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Maryam-Faatima&show_icons=true&title_color=D6538F&text_color=7A4B63&icon_color=F4A7C3&bg_color=FFF5F9&border_color=FBCFE8&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Faatima&layout=compact&title_color=D6538F&text_color=7A4B63&bg_color=FFF5F9&border_color=FBCFE8" alt="Top languages" />
 </p>
